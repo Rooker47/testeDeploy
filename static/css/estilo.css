@@ -1,3 +1,11 @@
-#principal{
+html, body{
     background-color: #efce6d;
+}
+
+h3{
+    color: red;
+}
+
+h4{
+    color: #FFF;
 }
